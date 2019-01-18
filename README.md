@@ -1,2 +1,2 @@
 # FiveM-Speedometer
-FiveM Speedometer Created in Lu
+FiveM Speedometer Created in Lua
